@@ -639,7 +639,7 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: spiral6.MedicalImagingProject
   metroPackageVersion: 1.0.0.0
-  metroCertificatePath: N:\Development\UnityProjects\MedicalImagingProject\Assets\WSATestCertificate.pfx
+  metroCertificatePath: Assets/WSATestCertificate.pfx
   metroCertificatePassword: 
   metroCertificateSubject: DefaultCompany
   metroCertificateIssuer: DefaultCompany

@@ -51,6 +51,7 @@ public class SheppLoganPhantom : MonoBehaviour
         }
 
         phantom.transform.localScale = new Vector3(.5f, .5f, .5f);
+        phantom.transform.position = new Vector3(phantom.transform.position.x, 1, phantom.transform.position.z);
     }
 
     // Update is called once per frame
